@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @FloatingWindEngineer
-- 👀 I’m interested in python
-- 🌱 I’m currently learning Pandas
+- 👋 Hi, I’m @JT-Kim89
+- 👀 I’m interested in data processing 
+- 🌱 I’m currently learning python(Pandas)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
