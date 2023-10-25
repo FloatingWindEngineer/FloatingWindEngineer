@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JT-Kim89
-- 👀 I’m interested in data processing 
-- 🌱 I’m currently learning python(Pandas)
+- 👀 I’m interested in data processing
+- 🌱 I’m currently learning python(Numpy, Pandas, ...)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
